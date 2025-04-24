@@ -1,0 +1,55 @@
+relational database:
+ this is table structuerd format, the data will be stored in row and columns
+
+there are diffrent commands are avaible in sql for relational database
+1.DDL
+2.DML
+3.DCL
+4.TCL
+5.DQL
+---------------------------------------------------------------
+DDL:
+data defination launguage
+
+using of DDL we can define or modify our database strucures
+database structures
+1.Schema (column and data type)
+2.table
+3.index
+
+we can define and modify above mentioned 3 units
+----------------------------------------------
+DDL statements;
+1.create
+2.alter
+3.drop
+4.truncate
+5.rename
+------------------------------------
+DML:
+data manipulation launguage
+using of this we can insert data, update data, delete data
+
+1.insert into
+2.update
+3. delete
+-----------------------------
+DCL:
+data control launguage
+using of this we can give permission to access the database
+1.grant
+2.revoke
+----------
+TCL:
+transction control launguage
+1.commit
+2.rollback
+------------
+DQL
+
+data query launguge
+
+select
+
+
+
