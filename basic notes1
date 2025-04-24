@@ -1,1 +1,19 @@
-
+database:
+collection information stored in memory location that is called database
+RDBMS:
+this is tool or compiler
+SQL:
+structured query language which is used for communicate between rdbms and database
+-------------------------------
+type of rdbms:
+there are so many tools avaiable in the market.
+1.microsost sql server
+2.my sql
+3.postgress
+4.oracle
+-------------------
+type of database
+1.relational database - relational data will be stored in table format and structured
+2.non-relation databe- this is un structed data - no sql - images, flat files, xml
+3. network database
+----------------------
